@@ -37,4 +37,4 @@ Yes — it's free to download and use.
 3. **Workflow Automation:** Custom automations and integrations to streamline repetitive tasks.
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.  
+> This project is shared as-is. All product names and logos belong to their respective owners.   
